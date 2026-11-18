@@ -1,6 +1,6 @@
 # Attilio Reverse Engineering
 
-This repository documents the reverse engineering findings for **Attilio**, a life optimization app.
+This repository documents the reverse engineering findings for **Attilio**, a life optimization app. **It's a weekend of crud work by a junior engineer**.
 
 ## High-Level Findings
 The core "optimization" logic in Attilio is implemented as an **Access-as-a-Service** model. The application leverages user "Life Stages" to personalize experience and filter available services.
