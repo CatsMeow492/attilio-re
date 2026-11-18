@@ -11,3 +11,5 @@ The core "optimization" logic in Attilio is implemented as an **Access-as-a-Serv
 - **Access Control**: Reservations and claims are validated against the user's current access credits and stage permissions.
 
 For detailed technical analysis, including binary addresses and method logic, see [REVERSE_ENGINEERING.md](./REVERSE_ENGINEERING.md).
+For the proposed system reconstruction plan, see [ARCHITECTURE.md](./ARCHITECTURE.md).
+
